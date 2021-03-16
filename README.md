@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @kalaiarasi12287
+- 👋 Hi, I’m kalaiarasi.
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning html,css,js,mysql php
+- 🌱 I’m currently learning html,css,js,mysql,php
 -
 <!---
 kalaiarasi12287/kalaiarasi12287 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
